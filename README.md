@@ -11,7 +11,7 @@ Este projeto demonstra uma arquitetura vertical para IoT, unindo **PostgreSQL Av
 Utilizando `EXPLAIN ANALYZE`, o banco realizou o **Partition Pruning**, ignorando milhões de linhas e focando apenas na partição `telemetry_y2026m03`.
 * [cite_start]**Tempo de Execução:** 0.02ms [cite: 1, 4]
 
-![Plano de Execução](LINK_DA_TUA_IMAGEM_AQUI)
+https://github.com/igorvolpe/Sentinel-IoT---Real-Time-Analytics-Engine/issues/1#issue-4083525675
 
 ## 🏗️ Arquitetura do Sistema
 ```mermaid
